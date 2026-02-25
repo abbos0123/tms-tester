@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="TaskManagerState">
+    <option name="tasks">
+      <list>
+        <Task>
+          <option name="completed" value="true" />
+          <option name="createdAt" value="1771951689551" />
+          <option name="description" value="Salom xat men abbosman" />
+          <option name="id" value="db01fecd-6fda-4fef-91f0-47c54a281249" />
+          <option name="status" value="DONE" />
+          <option name="title" value="Lola" />
+        </Task>
+        <Task>
+          <option name="createdAt" value="1771955093137" />
+          <option name="description" value="bu yerda men tavsilotlarni yozishim mukin va u chiroyli chiqadi" />
+          <option name="id" value="ea3e51bd-0335-497c-bc12-df80e774af82" />
+          <option name="priority" value="LOW" />
+          <option name="status" value="IN_PROGRESS" />
+          <option name="title" value="Bu haqiqiy task bo'ladi" />
+        </Task>
+        <Task>
+          <option name="completed" value="true" />
+          <option name="createdAt" value="1771958652761" />
+          <option name="description" value="kkkk" />
+          <option name="id" value="dea19acb-7652-457e-b143-2de5c8a03d33" />
+          <option name="priority" value="LOW" />
+          <option name="status" value="DONE" />
+          <option name="title" value="kkk" />
+        </Task>
+        <Task>
+          <option name="completed" value="true" />
+          <option name="createdAt" value="1771958709364" />
+          <option name="description" value="kkk" />
+          <option name="id" value="2c49a213-ab3c-48e5-b023-9c3907d805c8" />
+          <option name="status" value="DONE" />
+          <option name="title" value="kk" />
+        </Task>
+        <Task>
+          <option name="createdAt" value="1771993554693" />
+          <option name="description" value="Ikki martta qilish kerk lekin qilib bo'lmayapti" />
+          <option name="id" value="e5cd5559-7eb1-4dba-bee0-aaf71006479a" />
+          <option name="status" value="IN_PROGRESS" />
+          <option name="title" value="Bugungi tasklarni bajarish" />
+        </Task>
+        <Task>
+          <option name="completed" value="true" />
+          <option name="createdAt" value="1771993933402" />
+          <option name="description" value="Sen bilan ishlash" />
+          <option name="id" value="6264bff8-f93a-4720-9041-676c9ead9f27" />
+          <option name="status" value="DONE" />
+          <option name="title" value="Jaxon taski" />
+        </Task>
+        <Task>
+          <option name="createdAt" value="1771994123534" />
+          <option name="id" value="9643e188-74c3-41ed-9d71-26219cf21714" />
+          <option name="priority" value="HIGH" />
+          <option name="status" value="IN_PROGRESS" />
+          <option name="title" value="/kakak qilish" />
+        </Task>
+        <Task>
+          <option name="createdAt" value="1771997565269" />
+          <option name="description" value="THERE IS A LOT OF CODE YOU NEED TO LEARN" />
+          <option name="id" value="0bb332b8-c416-47cc-b741-6b62e79ca6a9" />
+          <option name="priority" value="HIGH" />
+          <option name="status" value="IN_PROGRESS" />
+          <option name="title" value="KARIMOV OYBKEK" />
+        </Task>
+      </list>
+    </option>
+  </component>
+</project>
